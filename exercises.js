@@ -2011,3 +2011,5 @@ Switch the boolean value on the same element as the flick itself.
 //   return -1;
 // }
 // console.log(binarySearch([2, 3, 5, 7, 8, 10, 12, 15, 18, 20], 45));
+
+//----------------------------------------------codewars;
